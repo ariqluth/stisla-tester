@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login menggunakan admin</description>
+   <name>TL2_Verify Successful Login Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39f00881-0689-4ccc-8a35-8f08adc02912</testCaseGuid>
+</TestCaseEntity>
